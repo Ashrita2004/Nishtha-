@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685422656722",
+    "project_id": "iocl-login",
+    "storage_bucket": "iocl-login.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685422656722:android:6e2767aee7847b9a61410b",
+        "android_client_info": {
+          "package_name": "com.example.iocl_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPDd9p9hTbC1bsuzmFjcgt32tl17d35fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,16 @@
-# reporting_app
+# NISHTHA - Reporting App
 
-Built using Flutter for the frontend and Firebase for the backend, NISHTHA enables secure, real-time task assignments and report submissions. The application supports multiple roles — General Manager, Head of Department, Chief Manager, Manager, and Worker — with each user redirected to a customized dashboard based on their designation. Task creation, deadline management, report submission, and role-specific access controls are key features of the app. Firebase Firestore ensures scalable data storage while Firebase Authentication provides secure user management.
+**NISHTHA** is a secure, real-time task management and reporting application built with **Flutter** (frontend) and **Firebase** (backend). The app supports multiple organizational roles — General Manager, Head of Department, Chief Manager, Manager, and Worker — each with a **role-specific dashboard** for streamlined workflow.  
 
+## Features
 
+- **Task Management:** Create, assign, and track tasks with deadlines.  
+- **Role-Based Access:** Customized dashboards and permissions for different user roles.  
+- **Report Submission:** Submit and manage reports efficiently.  
+- **Scalable Data Storage:** Powered by **Firebase Firestore**.  
+- **Secure Authentication:** User management with **Firebase Authentication**.  
+
+## Tech Stack
+
+- **Frontend:** Flutter  
+- **Backend:** Firebase (Firestore, Authentication)
